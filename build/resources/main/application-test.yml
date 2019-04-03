@@ -1,5 +1,0 @@
-
-tracing:
-  jaeger:
-    enabled: false
-
