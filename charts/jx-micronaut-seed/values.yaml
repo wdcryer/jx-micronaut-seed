@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
-  repository: draft
-  tag: dev
+  repository: 10.99.248.203:5000/wdcryer/jx-micronaut-seed
+  tag: 0.0.1
   pullPolicy: IfNotPresent
 env: null
 knativeDeploy: false
